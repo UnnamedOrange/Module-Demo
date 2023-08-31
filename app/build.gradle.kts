@@ -48,4 +48,5 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
     implementation(project(mapOf("path" to ":libdemo")))
+    implementation(project(mapOf("path" to ":libnative")))
 }
