@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Module Demo"
 include(":app")
 include(":libdemo")
+include(":libnative")
